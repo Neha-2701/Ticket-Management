@@ -4,7 +4,7 @@
 
 # Description:
 
-### ticket Management is build using Web Technologies such as HTML, CSS, JavaScript.
+### Ticket Management is build using Web Technologies such as HTML, CSS, JavaScript.
 ### Some features of this project are -
 - Add task to be done in the form of tickets 
 - Selecting the priority color on the basis of the prioirty of task
